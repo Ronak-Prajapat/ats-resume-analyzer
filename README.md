@@ -19,6 +19,12 @@ This project helps users analyze resumes, calculate ATS compatibility, identify 
 
 ---
 
+## 📸 Screenshot
+
+![ATS Resume Analyzer](https://raw.githubusercontent.com/Ronak-Prajapat/ats-resume-analyzer/main/Screenshot.png)
+
+---
+
 ## 🛠 Tech Stack
 
 * Flutter
@@ -27,14 +33,6 @@ This project helps users analyze resumes, calculate ATS compatibility, identify 
 * HTTP Package
 * File Picker
 * Syncfusion PDF
-
----
-
-## 📸 Screenshots
-
-## 📸 Screenshot
-
-![ATS Resume Analyzer](https://raw.githubusercontent.com/Ronak-Prajapat/ats-resume-analyzer/main/screenshot.png)
 
 ---
 
@@ -59,23 +57,17 @@ lib/
 git clone https://github.com/Ronak-Prajapat/ats-resume-analyzer.git
 ```
 
----
-
 ### 2️⃣ Open Project
 
 ```bash
 cd ats-resume-analyzer
 ```
 
----
-
 ### 3️⃣ Install Dependencies
 
 ```bash
 flutter pub get
 ```
-
----
 
 ### 4️⃣ Run Project
 
